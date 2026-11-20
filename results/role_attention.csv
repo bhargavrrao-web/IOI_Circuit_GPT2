@@ -1,0 +1,57 @@
+task,role,to_IO,to_S1,to_S2,S2_to_S1,S2_to_S1plus1
+IOI (people),Name Mover,0.59,0.108,0.027,0.017,0.02
+IOI (people),Negative Name Mover,0.711,0.084,0.058,0.006,0.068
+IOI (people),S-Inhibition,0.039,0.032,0.457,0.008,0.039
+IOI (people),Induction,0.006,0.006,0.01,0.011,0.411
+IOI (people),Duplicate Token,0.01,0.01,0.009,0.52,0.016
+IOI (people),Previous Token,0.0,0.0,0.007,0.0,0.002
+IOI (people),Backup Name Mover,0.218,0.103,0.055,0.018,0.023
+Animals,Name Mover,0.364,0.077,0.035,0.023,0.024
+Animals,Negative Name Mover,0.323,0.102,0.109,0.016,0.035
+Animals,S-Inhibition,0.039,0.036,0.367,0.011,0.041
+Animals,Induction,0.028,0.028,0.042,0.018,0.311
+Animals,Duplicate Token,0.008,0.009,0.008,0.442,0.015
+Animals,Previous Token,0.0,0.0,0.005,0.0,0.002
+Animals,Backup Name Mover,0.125,0.064,0.06,0.02,0.021
+Objects,Name Mover,0.298,0.076,0.02,0.017,0.006
+Objects,Negative Name Mover,0.308,0.095,0.117,0.018,0.018
+Objects,S-Inhibition,0.045,0.039,0.267,0.009,0.014
+Objects,Induction,0.031,0.026,0.062,0.003,0.28
+Objects,Duplicate Token,0.006,0.007,0.007,0.372,0.014
+Objects,Previous Token,0.0,0.0,0.009,0.0,0.0
+Objects,Backup Name Mover,0.109,0.059,0.036,0.012,0.008
+Colors,Name Mover,0.308,0.078,0.022,0.008,0.228
+Colors,Negative Name Mover,0.291,0.111,0.16,0.008,0.354
+Colors,S-Inhibition,0.032,0.028,0.265,0.006,0.11
+Colors,Induction,0.025,0.024,0.049,0.003,0.456
+Colors,Duplicate Token,0.007,0.007,0.008,0.399,0.011
+Colors,Previous Token,0.0,0.0,0.001,0.0,0.0
+Colors,Backup Name Mover,0.133,0.072,0.096,0.013,0.151
+Professions,Name Mover,0.294,0.088,0.037,0.021,0.011
+Professions,Negative Name Mover,0.277,0.11,0.062,0.021,0.045
+Professions,S-Inhibition,0.041,0.038,0.272,0.012,0.041
+Professions,Induction,0.02,0.019,0.037,0.008,0.343
+Professions,Duplicate Token,0.01,0.01,0.01,0.437,0.014
+Professions,Previous Token,0.0,0.0,0.006,0.0,0.002
+Professions,Backup Name Mover,0.148,0.077,0.046,0.015,0.017
+Fruits,Name Mover,0.254,0.069,0.021,0.028,0.026
+Fruits,Negative Name Mover,0.158,0.056,0.081,0.031,0.051
+Fruits,S-Inhibition,0.029,0.029,0.263,0.011,0.035
+Fruits,Induction,0.021,0.021,0.04,0.009,0.391
+Fruits,Duplicate Token,0.007,0.007,0.007,0.439,0.014
+Fruits,Previous Token,0.0,0.0,0.006,0.0,0.003
+Fruits,Backup Name Mover,0.078,0.047,0.056,0.021,0.024
+Vehicles,Name Mover,0.166,0.073,0.024,0.02,0.015
+Vehicles,Negative Name Mover,0.167,0.115,0.081,0.027,0.029
+Vehicles,S-Inhibition,0.034,0.034,0.219,0.015,0.037
+Vehicles,Induction,0.02,0.02,0.031,0.012,0.291
+Vehicles,Duplicate Token,0.008,0.008,0.007,0.392,0.016
+Vehicles,Previous Token,0.0,0.0,0.005,0.0,0.002
+Vehicles,Backup Name Mover,0.08,0.051,0.037,0.014,0.017
+Countries,Name Mover,0.33,0.094,0.042,0.011,0.015
+Countries,Negative Name Mover,0.388,0.174,0.197,0.012,0.031
+Countries,S-Inhibition,0.02,0.02,0.288,0.009,0.032
+Countries,Induction,0.005,0.004,0.012,0.021,0.315
+Countries,Duplicate Token,0.01,0.01,0.009,0.449,0.016
+Countries,Previous Token,0.0,0.0,0.008,0.0,0.001
+Countries,Backup Name Mover,0.114,0.068,0.079,0.012,0.019

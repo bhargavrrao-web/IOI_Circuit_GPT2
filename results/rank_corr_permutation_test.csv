@@ -1,0 +1,8 @@
+task,rank_corr_vs_IOI,permutation_p
+Animals,0.723,0.0003
+Objects,0.631,0.0003
+Colors,0.47,0.0003
+Professions,0.652,0.0003
+Fruits,0.544,0.0003
+Vehicles,0.478,0.0003
+Countries,0.51,0.0003

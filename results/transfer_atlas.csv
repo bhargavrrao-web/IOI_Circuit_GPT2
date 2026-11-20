@@ -1,0 +1,8 @@
+task,semantic_distance_to_names,baseline_logit_diff,accuracy,retained_IOI_circuit,retained_random,rank_corr_vs_IOI
+Animals,0.7557,2.4045,0.96,0.4072,-0.1702,0.7229
+Objects,0.7748,1.7985,0.78,0.6306,-0.358,0.6309
+Colors,0.7635,1.955,0.94,0.4517,-0.0537,0.4703
+Professions,0.7463,1.7325,0.74,0.6173,-0.2985,0.652
+Fruits,0.7491,1.6846,0.67,0.2777,-0.1759,0.5442
+Vehicles,0.776,0.4068,0.56,0.159,-1.363,0.4784
+Countries,0.7471,2.1445,0.93,0.4882,-0.1735,0.5102

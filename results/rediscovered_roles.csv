@@ -1,0 +1,9 @@
+task,Name Movers found,S-Inhibition found,NM overlap with IOI (Jaccard),S-Inh overlap with IOI (Jaccard)
+IOI (people),9.9 9.6 10.10,8.6 7.9 8.10 7.3,1.0,1.0
+Animals,9.9 9.6 10.10,8.6 7.9 7.3 8.10,1.0,1.0
+Objects,9.9 9.6 10.0,8.6 7.9 6.1 7.3,0.5,0.6
+Colors,9.9 9.7 10.1,8.6 7.9 8.10 6.1,0.2,0.6
+Professions,9.6 9.9 10.0,8.6 7.9 7.3 8.10,0.5,1.0
+Fruits,9.9 9.6 10.10,8.6 7.9 7.3 6.1,1.0,0.6
+Vehicles,9.6 9.9 10.10,8.6 7.9 7.3 8.10,1.0,1.0
+Countries,9.9 10.0 9.8,8.6 7.3 7.9 8.10,0.2,1.0

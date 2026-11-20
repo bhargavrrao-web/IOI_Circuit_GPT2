@@ -1,0 +1,9 @@
+,NameMover: attn to IO (correct),NameMover: attn to S1,NameMover: attn to S2,S-Inhibition: attn to S2,DuplicateToken: S2->S1,Induction: S2->S1+1
+IOI (people),0.59,0.108,0.027,0.457,0.52,0.411
+Animals,0.364,0.077,0.035,0.367,0.442,0.311
+Objects,0.298,0.076,0.02,0.267,0.372,0.28
+Colors,0.308,0.078,0.022,0.265,0.399,0.456
+Professions,0.294,0.088,0.037,0.272,0.437,0.343
+Fruits,0.254,0.069,0.021,0.263,0.439,0.391
+Vehicles,0.166,0.073,0.024,0.219,0.392,0.291
+Countries,0.33,0.094,0.042,0.288,0.449,0.315
