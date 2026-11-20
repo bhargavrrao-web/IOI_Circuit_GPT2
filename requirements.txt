@@ -1,0 +1,4 @@
+transformer_lens==2.16.1
+matplotlib
+pandas
+tqdm
